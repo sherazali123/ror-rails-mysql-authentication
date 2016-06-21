@@ -1,0 +1,4 @@
+- Ruby on Rails
+- MySQL
+- Authentication
+- Registration
